@@ -1,6 +1,6 @@
 # Self_Driving_Car
 
-This Project gives a glimpse of a real-world self-driving car.This is a model totally based on Nvidea Self Driving Car model.A Convolutional neural network(CNN) is trained to map raw pixels from a single front-facing camera directly to steering commands.
+This Project gives a glimpse of a real-world self-driving car.This is a model totally based on Nvidia Self Driving Car model.A Convolutional neural network(CNN) is trained to map raw pixels from a single front-facing camera directly to steering commands.
 
 ---
 #### Coded in Google Colaboratory
