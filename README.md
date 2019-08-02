@@ -7,6 +7,8 @@ This Project gives a glimpse of a real-world self-driving car.This is a model to
 #### Data is trained using Self Driving Car Simulator of Udacity
 [SELF DRIVING CAR SIMULATOR-UDACITY](https://github.com/udacity/self-driving-car-sim)
 
+### click [here](https://drive.google.com/drive/folders/1YaSpo5tzH0YO6AKuS2zXLbFn6CkjKuSU?usp=sharing) to view train data
+
 ---
 ### Libraries Used
 * os
